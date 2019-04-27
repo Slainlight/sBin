@@ -18,6 +18,4 @@ def sBin(number, arr = 0):
 # Introduction Instruction
 print("Input an decimal integer to convert to binary: ", end='')
 # Print the binary conversion of the integer input:
-print(sBin(int(input())));
-
-input()
+print(sBin(int(input())))

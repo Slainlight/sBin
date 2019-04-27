@@ -18,4 +18,3 @@ print("In Binary: ", end='')
 for x in range(len(binary)):
   print(binary[x], end='')
 print()
-input()
