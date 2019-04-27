@@ -1,0 +1,14 @@
+# By Matthew Periut
+def sBin(number, arr = 0):
+  binary = []
+  while number > 0:
+    binary = [number % 2] + binary
+    number = int(number / 2)
+  
+  if arr == 0:
+    binString = ""
+    for x in range(0, len(binary)):
+      binString += str(binary[x])
+    return binString
+  else:
+    return binary
