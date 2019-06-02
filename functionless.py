@@ -1,4 +1,4 @@
-# Regular Method (well w/o bin()) lmao
+# Regular Method (well w/o bin())
 # By Matthew Periut
 
 # Introduction Instruction
